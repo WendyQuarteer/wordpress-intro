@@ -28,7 +28,6 @@ This will also change some features in your UI, like the "edit" feature on your 
   If you skip the tutorials and things are not clear, you might want to revisit the tutorials.
     * Use templates to get started
     * Use a few of the wordpress features 
-    * Add blocks to your website
 - [x] When done following the steps, you can launch your website.
   Again, you don't need to pay. Scroll to the bottom of the page for your free option.
   While choosing the plan, you also do not need to pay.
@@ -47,13 +46,29 @@ This will also change some features in your UI, like the "edit" feature on your 
   If you want a nice overview of all elements on your page, click on the list view in the toolbar
   To the right of the toolbar, you can open up the settings. These show you the settings of the page you're on or the block you select.
   Next to the settings you can change the fonts and global styles
-    * Changed fonts.
   The button with the 3 dots is the option button. Right now you can see we are in the visual editor, but if you want to write code you can also open the code editor.
 - [x] Let's add some things! Open up the block inserter
   You can see a lot of categories, each containing elements you can add to your page
   From each category, pick at least 1 of the blocks to add to this page, or any other page you make. (Except for the earn category)
   If you can't find one in the category that does not require a premium account, skip the category.
   Make sure to customise every block, you can use dummy / fake text but don't leave anything empty that shouldn't be.
-   * Add a Wordpress contact form
+   * Add blocks to your website
    * Add link in button to go to gallery-page
+- [x] Let's get hacky! Open up the code editor
+In the code, add a div and put some text in it at the top.
+Above that, add a style tag and customise the div to have a background color.
+Wordpress doesn't like you doing that, so some wonky stuff might happen
+There is a way to overcome this, the end result will be your div with a background color
+- [x] Let's customise our theme! Go back to the home view of your website and click on "appearance" in the left toolbar
+Now we can customise our selected theme or change it! Go ahead and click on "customise"
+In here we can change stuff like colors, menus and so on.
+- [x] Adding additional css is a premium feature, however in the previous step we have learned to overcome this with our developer knowledge! Nice try Wordpress!
+Wordpress does their best though to make our life a living hell when we try to change something through css, so not everything will work.
+Remember how to customise your fonts? Go ahead and pick one to your liking, don't leave it at the default font!
+    * Changed fonts.
+Last step, add a contact form anywhere on your pages.
+    * Add a Wordpress contact form
+Done! Go have a look at the nice to have features, or just have some fun with Wordpress!
+
+  
   
